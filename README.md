@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fake Product Identification using Blockchain
 
 ## Packages Required:-
@@ -48,3 +49,6 @@ npm run dev
 ``` 
 7. Login to metamask ,and connect the added account to local blockchain (i.e.localhost:3000)
 8. Interact with website
+=======
+# Identifying-fake-product-using-blockchain-ethereum-
+>>>>>>> d53f811c601964d7dcd31e2387872385a245257e

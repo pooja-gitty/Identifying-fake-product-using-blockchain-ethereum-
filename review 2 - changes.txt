@@ -1,0 +1,4 @@
+review 2 - changes
+display all the manufacturers, sellers, consumers
+categorize them by brands
+give names in each codes
